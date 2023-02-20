@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://akshithasuram:SEproject2022@clusterse.bpafiiw.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
